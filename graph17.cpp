@@ -1,4 +1,5 @@
 // City With the Smallest Number of Neighbors at a Threshold Distance
+
 #include <iostream>
 using namespace std;
 class Solution {
