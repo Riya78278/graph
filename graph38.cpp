@@ -1,3 +1,5 @@
+// minimum spnning tree
+
 #include<iostream>
 using namespace std;
 
