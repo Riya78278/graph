@@ -1,5 +1,6 @@
 //Minimize connections
 
+
 #include <iostream>
 using namespace std;
 class DisjointSet{
